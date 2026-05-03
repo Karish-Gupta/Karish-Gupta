@@ -13,7 +13,7 @@ O|===|* >_________________________________________________________________>
 
 # Hey, I'm Karish Gupta >_
 
-I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasoning, LLM fine-tuning, and building scalable intelligent systems.From training robust models to deploying full-stack AI applications, I'm passionate about building with the latest advancements in AI.
+I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasoning, LLM fine-tuning, and building scalable intelligent systems. From training robust models to deploying full-stack AI applications, I'm passionate about building with the latest advancements in AI.
 
 ---
 
@@ -66,9 +66,12 @@ I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasonin
 
 ## // GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karish-Gupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karish-Gupta&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Karish-Gupta&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karish-Gupta&theme=tokyonight)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karish-Gupta&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true)](https://github.com/Karish-Gupta)
+
+![Snake animation](https://raw.githubusercontent.com/Karish-Gupta/Karish-Gupta/output/github-contribution-grid-snake-dark.svg)
 
 ---
