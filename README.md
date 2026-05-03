@@ -52,14 +52,9 @@ I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasonin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karish-Gupta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karish-Gupta&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karish-Gupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karish-Gupta&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karish-Gupta&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" width="97%" />
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karish-Gupta&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true)](https://github.com/Karish-Gupta)
 
 ---
