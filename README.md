@@ -63,15 +63,11 @@ I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasonin
 - `[ in ]` [LinkedIn](https://www.linkedin.com/in/karish-gupta)
 
 ---
-
 ## // GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Karish-Gupta&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karish-Gupta&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karish-Gupta&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true)](https://github.com/Karish-Gupta)
-
 ![Snake animation](https://raw.githubusercontent.com/Karish-Gupta/Karish-Gupta/output/github-contribution-grid-snake-dark.svg)
-
 ---
