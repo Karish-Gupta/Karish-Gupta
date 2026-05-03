@@ -1,21 +1,35 @@
-# Hey, I'm Karish Gupta 👋
-
-I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasoning, LLM fine-tuning, and building scalable intelligent systems. From training robust models to deploying full-stack AI applications, I love transforming complex data into actionable products.
-
----
-
-## 🚀 About Me
-
-- 🤖 **AI & Multimodal Reasoning** — specializing in fine-tuning large language and vision models (SFT, GRPO) and developing advanced Video Question Answering (VQA) frameworks.
-- 🏗️ **Cloud & AI Infrastructure** — experienced in containerizing full-stack AI applications and orchestrating cloud deployments (Docker, Azure) with robust monitoring.
-- 📊 **Data Engineering** — orchestrating automated data pipelines, web scraping, and building hierarchical classification models for massive datasets.
-- 🎯 **Currently focused on** adaptive visual reasoning systems, agentic AI pipelines, and open-source collaborations.
+```text
+                      _  __               _         _     
+                     | |/ /  __ _  _ __  (_)  ___  | |__  
+                     | ' /  / _` || '__| | | / __| | '_ \ 
+                     | . \ | (_| || |    | | \__ \ | | | |
+                     |_|\_\ \__,_||_|    |_| |___/ |_| |_|
+      /| _________________________________________________________________
+O|===|* >_________________________________________________________________>
+      \|
+```
 
 ---
 
-## 🛠️ Tech Stack
+# Hey, I'm Karish Gupta >_
 
-**Languages & Core**
+I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasoning, LLM fine-tuning, and building scalable intelligent systems.From training robust models to deploying full-stack AI applications, I'm passionate about building with the latest advancements in AI.
+
+---
+
+## // About Me
+
+- `[ * ]` **AI Engineer** — designing and shipping LLM-powered products, RAG systems, and AI agents
+
+- `[ # ]` **Data Scientist** — transforming messy, complex datasets into actionable insights and predictive models
+
+- `[ + ]` **MLOps Knowhow** — passionate about model monitoring and CI/CD for ML 
+
+---
+
+## // Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -24,7 +38,7 @@ I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasonin
 **ML, AI & Data Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5733?style=flat)
@@ -43,14 +57,14 @@ I'm an **AI/ML Engineer** and **Researcher** specializing in multimodal reasonin
 
 ---
 
-## 📫 Get in Touch
+## // Get in Touch
 
-- 📧 [Email](mailto:karishgupta2003@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/karish-gupta)
+- `[ @ ]` [Email](mailto:karishgupta2003@gmail.com)
+- `[ in ]` [LinkedIn](https://www.linkedin.com/in/karish-gupta)
 
 ---
 
-## 📊 GitHub Stats
+## // GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karish-Gupta&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karish-Gupta&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Karish-Gupta)
